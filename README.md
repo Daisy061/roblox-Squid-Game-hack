@@ -4,7 +4,7 @@
 
 [![](https://i.ytimg.com/vi/FFY6bJBnBuE/maxresdefault.jpg)](https://www.youtube.com/watch?v=FFY6bJBnBuE)
 
-## screenshots
+## Screenshots
 
 ![](./screenshots/1.jpg)
 
