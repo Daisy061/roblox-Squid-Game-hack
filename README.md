@@ -4,7 +4,8 @@
 
 [![](https://i.ytimg.com/vi/FFY6bJBnBuE/maxresdefault.jpg)](https://www.youtube.com/watch?v=FFY6bJBnBuE)
 
-
+**screenshots**
+![](./screenshots/1.jpg)
 
 ## How to do?
 - 1. Find any exploits. (It perceives some exploits as cheating.)
