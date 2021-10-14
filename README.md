@@ -21,6 +21,7 @@ loadstring(game:HttpGet("https://raw.githubusercontent.com/anonimbiri/roblox-Squ
 loadstring(game:HttpGet("https://raw.githubusercontent.com/anonimbiri/roblox-Squid-Game-hack/main/script.txt"))()
  ```
 
+![](./screenshots/anonimbiri%20logo.png)
 
 -----------------------
 ## Disclaimer 
