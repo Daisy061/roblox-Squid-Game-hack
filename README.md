@@ -12,7 +12,7 @@
 - 3. Paste this code into your exploit. 
 
 ```
- loadstring(game:HttpGet("https://raw.githubusercontent.com/anonimbiri/roblox-Squid-Game-hack/main/script V2.txt"))()
+  loadstring(game:HttpGet("https://raw.githubusercontent.com/anonimbiri/roblox-Squid-Game-hack/main/script%20V2.txt"))()
 ```
 **Below is the old version**
  ```
