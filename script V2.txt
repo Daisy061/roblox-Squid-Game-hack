@@ -107,7 +107,7 @@
     end)
 
 PlayerSection:NewToggle("Automatic rope pulling", "presses the button for you", function(state)
-while wait() do
+while wait(0.1) do
 if state then  
    game:GetService("ReplicatedStorage").TugRemote:FireServer()  
  end
