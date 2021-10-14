@@ -10,6 +10,11 @@
 - 1. Find any exploits. (It perceives some exploits as cheating.)
 - 2. Enter the game [Click to enter the game](https://www.roblox.com/games/7549229959/Squid-Game)
 - 3. Paste this code into your exploit. 
+
+```
+ loadstring(game:HttpGet("https://raw.githubusercontent.com/anonimbiri/roblox-Squid-Game-hack/main/script%20V2.txt"))()
+```
+**Below is the old version**
  ```
  loadstring(game:HttpGet("https://raw.githubusercontent.com/anonimbiri/roblox-Squid-Game-hack/main/script.txt"))()
  ```
