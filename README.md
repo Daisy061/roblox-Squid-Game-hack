@@ -2,7 +2,7 @@
 
 **Click the picture to watch the video.**
 
-[![](https://i.ytimg.com/vi/FFY6bJBnBuE/maxresdefault.jpg)](https://www.youtube.com/watch?v=FFY6bJBnBuE)
+[![](https://i.ytimg.com/vi/x72xrZv1-M4/maxresdefault.jpg)](https://www.youtube.com/watch?v=x72xrZv1-M4)
 
 ## Screenshots
 
