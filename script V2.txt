@@ -29,6 +29,13 @@
 
     end)
 
+    TeleportsSection:NewButton("Teleport End Parkour", "teleport to the end of parkour", function()
+    local plr = game.Players.LocalPlayer
+	local char = plr.Character
+	char.HumanoidRootPart.CFrame = CFrame.new(106.6, -67.9122, -90.12) -- 1.yan 2.yukarı aşağı 3.ileri geri
+
+    end)
+
     TeleportsSection:NewButton("Teleport All Glass", "breaking the whole glass and teleporting to the opposite side", function()
    	local plr = game.Players.LocalPlayer
 	local char = plr.Character
@@ -106,12 +113,16 @@
    game:GetService("ReplicatedStorage").Remotes.SugarHoneycomb:FireServer(true)
     end)
 
+local pulling = true
 PlayerSection:NewToggle("Automatic rope pulling", "presses the button for you", function(state)
-while wait(0.1) do
-if state then  
-   game:GetService("ReplicatedStorage").TugRemote:FireServer()  
+pulling = state
+ while wait(0.05) do
+if pulling == true then
+     game:GetService("ReplicatedStorage").TugRemote:FireServer() 
+     else
+     break   
+    end
  end
- end 
  end)
 
     PlayerSection:NewButton("Kill All", "You must have a baseball bat", function()
@@ -129,5 +140,5 @@ settingsSection:NewKeybind("Menu on/off", "Menu on/off", Enum.KeyCode.RightShift
 	Library:ToggleUI()
 end)
 settingsSection:NewLabel("github.com/anonimbiri")
-settingsSection:NewLabel("v1.0")
+settingsSection:NewLabel("v1.1")
 
